@@ -1,6 +1,6 @@
 package com.app.service;
 
-import com.app.controller.dto.EmployeeDTO;
+import com.app.dto.EmployeeDTO;
 import com.app.entities.Department;
 import com.app.entities.Employee;
 import com.app.persistence.EmployeeRepository;

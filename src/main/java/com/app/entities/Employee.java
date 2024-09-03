@@ -23,7 +23,7 @@ public class Employee {
     @Column(name = "last_name")
     private String lastName;
     private String email;
-    private Long phone;
+    private String phone;
     private byte age;
     private double height;
 
